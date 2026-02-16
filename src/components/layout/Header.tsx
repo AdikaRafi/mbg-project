@@ -15,7 +15,7 @@ export function Header() {
           </span>
           <input
             className="block w-full pl-10 pr-3 py-2 border border-slate-200 dark:border-slate-700 rounded-lg bg-background-light dark:bg-slate-800 text-sm focus:ring-1 focus:ring-primary focus:border-primary outline-none transition-all"
-            placeholder="Search schools, regions, or menus..."
+            placeholder="Cari sekolah, wilayah, atau menu lainnya"
             type="text"
           />
         </div>
@@ -32,7 +32,7 @@ export function Header() {
               Budi Santoso
             </p>
             <p className="text-[11px] text-slate-500 dark:text-slate-400">
-              School Administrator
+              Administrator Sekolah     
             </p>
           </div>
           <img
